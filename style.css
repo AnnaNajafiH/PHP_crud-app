@@ -1,0 +1,52 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+:root {
+     --primary-color: #6C5CE7;   /* Calm Blue */
+    --secondary-color: #FDCB6E; /* Mint Green */
+    --neutral-color: #F5F7FA;   /* Light Gray */
+    --accent-color: #FF5A5F;    /* Soft Red */
+}
+
+
+#main_title {
+    font-size: 2em;
+    color: var(--primary-color);
+    font-weight: bold;
+    text-align: center;
+    padding: 20px 0;
+    background-color: var(--secondary-color);
+}
+
+
+.table-title{
+    font-size: 1.5em;
+    color: var(--primary-color);
+    font-weight: bold;
+    padding: 20px 0;
+    text-shadow: 2px 2px 2px var(--secondary-color);
+}
+
+.box h2{
+    float: left;
+
+}
+
+.box1 button{
+    float: right;
+
+}
+
+h6 {
+    text-align: center;
+    color: var(--accent-color); 
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+
+
+
+
