@@ -1,32 +1,31 @@
-# 📚 PHP CRUD Application
+# PHP CRUD Application
 
 ## Technologies Used 🛠️
-- **PHP**
-- **MySQL**
-- **HTML**
-- **CSS**
-- **Bootstrap**
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
 ## Project Description 📚
 
-This project is a **CRUD Application** built using **PHP** and **MySQL** that allows users to **Create, Read, Update, and Delete** records. In this case, it is designed to manage a collection of students with basic information such as their first name, last name, and age.
+This is a **CRUD Application** built using **PHP** and **MySQL** that allows users to **Create, Read, Update, and Delete** user records. The application allows managing user data with fields such as **first name**, **last name**, and **age**.
 
 ---
 
 ## Features ✨
-
-- **Add Students**: Users can add new students to the database with their first name, last name, and age.
-- **View Students**: Users can view a list of all students currently stored in the system.
-- **Edit Student Information**: Users can update existing student records, changing their name or age.
-- **Delete Students**: Users can delete a student record from the database.
+- Add user Information
+- Edit user Information
+- Delete user Records
+- View All users
 
 ---
 
 ## Installation & Run 🚀
 
-To run the project locally, follow these steps:
+To get started with the project:
 
 1. **Clone the repository**:
    ```bash
